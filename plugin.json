@@ -1,8 +1,0 @@
-{
-  "name": "Whois DP",
-  "version": "1.0.0",
-  "description": "Fetch WhatsApp profile picture and user info",
-  "main": "index.js",
-  "author": "CyberMafia",
-  "commands": ["whois"]
-}
